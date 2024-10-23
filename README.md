@@ -1,27 +1,21 @@
-Associative Arrays, Mini-Project #4
-===================================
-CSC-207-01, 10/3/24
-===================================
+## Mini-Project #4: Associative Arrays
 
-Starter code for a CSC-207 project on associative arrays.
+### Authors
+- Samuel Rebelsky (starter code)
+- Sara Jaljaa
 
-**Author**
-> Sara Jaljaa
-> Samuel Rebelsky (starter code)
-
-===================================
-Description:
-
-A generic parameterized associative array
-that uses methods to assign/update key/value
+### Overview
+A generic parameterized associative array that uses methods to assign/update key/value
 pairs.
 
-===================================
-References:
+---
 
-===================================
-This forked repository:
-<https://github.com/500dpi/mp-associative-arrays-maven>
+### Acknowledgements
 
-Original repository:
-<https://github.com/Grinnell-CSC207/mp-associative-arrays-maven>
+---
+
+### GitHub (this project)
+[500dpi/mp-associtive-arrays-maven](https://github.com/500dpi/mp-associative-arrays-maven)
+
+### GitHub (original code)
+[Grinnell-CSC207/mp-associative-arrays-maven](https://github.com/Grinnell-CSC207/mp-associative-arrays-maven)
