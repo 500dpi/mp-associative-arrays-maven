@@ -7,6 +7,7 @@ package edu.grinnell.csc207.util;
  * @author Samuel A. Rebelsky
  */
 public class KeyNotFoundException extends Exception {
+
   // +--------------+------------------------------------------------
   // | Constructors |
   // +--------------+

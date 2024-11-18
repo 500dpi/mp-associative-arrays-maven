@@ -10,6 +10,7 @@ package edu.grinnell.csc207.util;
  *   The type of the values.
  */
 class KVPair<K, V> {
+
   // +--------+------------------------------------------------------
   // | Fields |
   // +--------+
@@ -72,7 +73,6 @@ class KVPair<K, V> {
     } else {
       return this.key.toString() + ":" + this.val.toString();
     } // if
-  } // toString()
-
+  } // toString()s
 } // class KVPair
 

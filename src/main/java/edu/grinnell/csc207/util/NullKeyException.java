@@ -6,6 +6,7 @@ package edu.grinnell.csc207.util;
  * @author Samuel A. Rebelsky
  */
 public class NullKeyException extends Exception {
+
   // +--------------+------------------------------------------------
   // | Constructors |
   // +--------------+
