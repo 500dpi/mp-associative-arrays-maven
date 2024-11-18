@@ -1,16 +1,21 @@
 ## Mini-Project #4: Associative Arrays
 
+### Change log
+
+- Added my personal tests to project (main issue).
+- Edited some visibility modifiers.
+
+---
+
 ### Authors
+
 - Samuel Rebelsky (starter code)
 - Sara Jaljaa
 
 ### Overview
+
 A generic parameterized associative array that uses methods to assign/update key/value
 pairs.
-
----
-
-### Acknowledgements
 
 ---
 
